@@ -1,0 +1,12 @@
+server:
+  port: 8050
+
+spring:
+  data:
+    mongodb:
+      username: armelo
+      password: armelo
+      host: localhost
+      port: 27017
+      database: customer
+      authentication-database: admin
